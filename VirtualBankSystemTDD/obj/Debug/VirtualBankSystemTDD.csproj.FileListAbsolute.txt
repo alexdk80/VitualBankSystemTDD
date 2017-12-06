@@ -1,0 +1,14 @@
+c:\users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\bin\Debug\VirtualBankSystemTDD.exe.config
+c:\users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\bin\Debug\VirtualBankSystemTDD.exe
+c:\users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\bin\Debug\VirtualBankSystemTDD.pdb
+c:\users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\bin\Debug\VirtualBank.Library.dll
+c:\users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\bin\Debug\VirtualBank.Library.pdb
+c:\users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\obj\Debug\VirtualBankSystemTDD.csprojResolveAssemblyReference.cache
+c:\users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\obj\Debug\VirtualBankSystemTDD.csproj.CoreCompileInputs.cache
+c:\users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\obj\Debug\VirtualBankSystemTDD.exe
+c:\users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\obj\Debug\VirtualBankSystemTDD.pdb
+C:\Users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\bin\Debug\Castle.Core.dll
+C:\Users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\bin\Debug\Moq.dll
+C:\Users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\bin\Debug\Castle.Core.xml
+C:\Users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\bin\Debug\Moq.pdb
+C:\Users\alexd\onedrive\documents\visual studio 2017\Projects\VirtualBankSystemTDD\VirtualBankSystemTDD\bin\Debug\Moq.xml
